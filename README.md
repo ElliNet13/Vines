@@ -1,5 +1,5 @@
 # Vines
-Get vines in c++ and html
+Get vines in c++
 
 
 
